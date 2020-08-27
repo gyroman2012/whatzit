@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1069904090008",
+    "firebase_url": "https://whatzit-302e1.firebaseio.com",
+    "project_id": "whatzit-302e1",
+    "storage_bucket": "whatzit-302e1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1069904090008:android:c0b0684f403b6eec21d1ed",
+        "android_client_info": {
+          "package_name": "com.example.yelp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1069904090008-kajkj08mcg65m8r2gkn6j550aqfae2n2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdYSgLFhPjMS0G7EN-9L23Bi-wohM41o0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1069904090008-kajkj08mcg65m8r2gkn6j550aqfae2n2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
